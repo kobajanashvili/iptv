@@ -39,6 +39,8 @@ http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит HD
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Кино",Fox Life
 http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Fox HD
@@ -74,6 +76,26 @@ http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
 http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1581238800&version=2
 #EXTINF:-1 group-title="Кино",Русская комедия
 http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:-1 group-title="Кино",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 group-title="Кино",Paramount Channel
+http://212.79.122.24:7056/Paramount_Channel
+#EXTINF:-1 group-title="Кино",Shot TV
+http://37.17.14.149:8905/play/a00m
+#EXTINF:-1 group-title="Кино",Sony Turbo
+http://212.79.122.24:7009/sony_turbo
+#EXTINF:-1 group-title="Кино",Star Cinema
+http://213.184.238.59:5081
+#EXTINF:-1 group-title="Кино",TV1000
+http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Сиеста HD
+http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино",Шокирующее HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=shok
+#EXTINF:-1 group-title="Кино",НТВ Сериал
+http://185.32.44.174:8291/play/a047
 
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
@@ -101,9 +123,6 @@ http://91.192.168.242:9091
 #EXTINF:-1 group-title="Познавательные",Univer TV
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://a775797910-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/playlist.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1604054297280.png",Ратник HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные",Охота и Рыбалка
 https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Техно 24
@@ -114,13 +133,9 @@ http://194.156.166.2:8000/play/a026
 https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Поехали! 
 http://89.106.234.3:80/poehali_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные",Живи!
-http://109.248.67.181:4044/udp/239.195.1.196:1234
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные",Домашние Животные
-http://89.189.191.250/239.211.211.65/stream.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто 24
 http://194.156.166.2:8000/play/a01z
 #EXTINF:-1 group-title="Познавательные",Zooпарк
@@ -145,6 +160,20 @@ http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Bricks TV
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explorer
+http://178.184.187.34:1234/udp/233.7.70.16:5000
+#EXTINF:-1 group-title="Познавательные",Viasat Explorer
+https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+http://91.219.139.74:4022/udp/239.1.0.108:1234
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://91.219.139.74:4022/udp/239.1.0.107:1234
+#EXTINF:-1 group-title="Познавательные",DTX
+http://91.219.139.74:4022/udp/239.1.0.15:1234
+#EXTINF:-1 group-title="Познавательные",HDL
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 group-title="Россия",Первый канал HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
@@ -219,9 +248,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/che.png",Че
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия" tvg-logo="http://immo.date/logo/zal-suda.png",Зал суда HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Russia Today 
 http://194.156.166.2:8000/play/a03d
 #EXTINF:-1 group-title="Россия",Russia Today Doc HD
@@ -272,7 +298,7 @@ https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 2
 http://51.68.140.190:8081/tv/match-fut-2/chunks.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 3
-https://77-247-178-24.livesports24.online/rumatchf3.m3u8
+https://95-213-224-180.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 3
 http://51.68.140.190:8081/tv/match-fut-3/chunks.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Планета
@@ -291,12 +317,8 @@ http://w4.mostvideo.tv/tv/ch1.m3u8
 https://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports 2
 http://45.92.69.211:8000/play/a0np
-#EXTINF:-1 group-title="Спорт",Setanta Sports HD
-http://mytv.fun:8080/juan-alcudia/0187fh54/36877
 #EXTINF:-1 group-title="Спорт",Setanta Sports + HD
 https://95-213-172-212.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports + HD
-https://185-107-80-245.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports Ukraine
 https://95-213-224-186.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports Ukraine
@@ -317,6 +339,20 @@ https://95-213-224-183.livesports24.online/belarusss5.m3u8
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Спорт",Спорт 1
 https://46-21-250-207.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 group-title="Спорт",Digi Sport 1 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Digi Sport 2 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Digi Sport 3 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Digi Sport 4 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 1 HD
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 group-title="Спорт",Sport TV 2 HD
+http://77.54.145.209:81/play/a02j
+#EXTINF:-1 group-title="Спорт",Sport TV 3 HD
+http://77.54.145.209:81/play/a02n
 
 #EXTINF:-1 group-title="Музыка",Ретро
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -346,12 +382,9 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Музыка",Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+
 #EXTINF:-1 group-title="Взрослые",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Взрослые",Русская ночь
-http://109.248.67.181:4044/udp/239.195.2.3:1234
-#EXTINF:-1 group-title="Взрослые",Playboy TV
-http://109.248.67.181:4044/udp/239.195.2.5:1234
 
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
 http://live.gtrk.tv/hls/b24-hls.m3u8
@@ -1192,12 +1225,6 @@ https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.
 #EXTINF:-1 group-title="Норвегия",Stortinget
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
 
-#EXTINF:-1 group-title="Швеция",TV 4
-https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
-#EXTINF:-1 group-title="Швеция",TV 4 Nyheterna
-https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
-#EXTINF:-1 group-title="Швеция",TV 4 Svensk Politik
-https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:-1 group-title="Швеция",KKR TV
 http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 #EXTINF:-1 group-title="Швеция",Västmanlands TV
