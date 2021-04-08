@@ -71,6 +71,8 @@ https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино",Sony Turbo
 http://212.79.122.24:7009/sony_turbo
+#EXTINF:-1 group-title="Кино",Sony Sci-Fi
+http://212.79.122.24:7173/sony_sci-Fi
 #EXTINF:-1 group-title="Кино",Paramount Comedy
 http://edge04.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
@@ -108,7 +110,15 @@ http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
 http://51.68.141.106:8081/tv/rus-bestceller/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Русский Детектив
 http://51.195.44.53:8081/tv/rus-detektiv/playlist.m3u8
-#EXTINF:-1 group-title="Кино",НТВ ХИТ
+#EXTINF:-1 group-title="Кино",Дом кино
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1 group-title="Кино",Дом кино премиум 
+http://cdn.nexttvnet.ru/hlsl/10/Dom_Kino_Premium_HD/Dom_Kino_Premium_HD_3/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4179.png" group-title="Кино",НТВ сериал
+http://45.145.32.11:20016/ntv_serial/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1753.png" group-title="Кино",НТВ право
+http://45.145.32.11:20016/ntv_pravo/video.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит
 http://91.192.168.251:8401
 #EXTINF:-1 group-title="Кино",Иллюзион+
 http://195.49.206.244:90/Illuzion+/index.m3u8
@@ -131,6 +141,12 @@ http://147.135.210.90:8081/tv/Discovery/playlist.m3u8
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://iptv.prosto.tv:7000/ch83/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery HD
+http://213.59.136.29:55555/udp/239.254.2.141:1234
 #EXTINF:-1 group-title="Познавательные",Love Nature 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
@@ -152,6 +168,8 @@ https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Познавательные",Nano TV
+http://94.230.240.12:8080/nanotv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 https://s4.idata.uz/avtoplyus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровье
@@ -198,15 +216,18 @@ http://195.49.206.244:90/Avto24/index.m3u8
 http://94.230.240.12:8080/zoopark/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 http://94.230.240.12:8080/history/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Nano TV
-http://94.230.240.12:8080/nanotv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",РТ Док HD
 http://94.230.240.12:8080/rtdochd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Outdoor Channel
 http://94.230.240.12:8080/outdoor/tracks-v1a1/index.m3u8
-
-
-
+#EXTINF:-1 group-title="Познавательные",Galaxy
+http://195.49.206.244:90/Galaxy/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+http://94.19.83.135:81/udp/239.239.3.45:5239
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2012.png" group-title="Познавательные",Viasat Nature HD
+http://195.189.105.158:9050/068/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Приключения
+http://80.89.196.34:8085/travel/index.m3u8
 
 #EXTINF:-1 group-title="Россия",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
@@ -316,13 +337,13 @@ http://195.49.206.244:90/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские",Disney
 http://195.49.206.244:90/Disney/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
-http://91.219.139.87:8080/multimaniya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские",Мультимания
 http://94.230.240.12:8080/multimania/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
 http://94.230.240.12:8080/nickelodeon/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские",TiJi
 http://94.230.240.12:8080/tiji/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские",О! 
+http://89.106.234.3:80/o_34_35.m3u8
 
 #EXTINF:-1 group-title="Спорт",Eurosport 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
@@ -390,26 +411,6 @@ http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 http://cdn.tvmatic.net/facebook.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports Football
-http://89.187.189.58/711/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports Premiere League
-http://89.187.189.58/309/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports F1
-http://89.187.189.58/657/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports Mix
-http://89.187.189.58/591/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Golf
-http://89.187.189.58/4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports Action
-http://89.187.189.58/308/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports Racing
-http://89.187.189.58/14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports Main Event
-http://89.187.189.58/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Free Sports
-http://89.187.189.58/1195/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",BT Sport 2
-http://89.187.189.58/9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -473,6 +474,8 @@ https://stirr.ott-channels.stingray.com/190/master.m3u8
 https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Jazz HD
 https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+#EXTINF:-1 group-title="Музыка",Mezzo
+http://109.200.130.124:7000/play/a00r
 
 #EXTINF:-1 group-title="Взрослые",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
@@ -1308,8 +1311,6 @@ https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/
 #EXTINF:-1 group-title="Голландия",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 
-#EXTINF:-1 group-title="Норвегия",MTV HD Norge
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="Норвегия",TV Haugaland
 https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
 #EXTINF:-1 group-title="Норвегия",Stortinget
@@ -1662,8 +1663,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
 #EXTINF:-1 group-title="Турция",KANAL 15
 https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
-#EXTINF:-1 group-title="Турция",KANAL 23
-https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
 #EXTINF:-1 group-title="Турция",KANAL 33 alt.
 http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="Турция",KANAL 34
