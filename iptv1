@@ -4,27 +4,13 @@ https://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 2
 http://78.30.254.135/1949/index.m3u8?
 #EXTINF:-1 group-title="Кино",Аmedia Hit HD
-http://cdn.nexttvnet.ru/hlsl/10/Amedia_Premium_HD/Amedia_Premium_HD_3/index.m3u8
-#EXTINF:-1 group-title="Кино",Аmedia Hit HD
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",Сериал UHD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Кино UHD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино",Русский Экстрим UHD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",VIP Premiere
-http://45.145.32.11:20008/vip_premiere/video.m3u8
-#EXTINF:-1 group-title="Кино",VIP Megahit
-http://45.145.32.11:20008/vip_megahit/video.m3u8
-#EXTINF:-1 group-title="Кино",VIP Comedy
-http://45.145.32.11:20008/vip_comedy/video.m3u8
 #EXTINF:-1 group-title="Кино",VIP Premiere
 http://iptv.prosto.tv:7000/ch45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино",VIP Megahit
@@ -37,12 +23,16 @@ http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Кино",Hollywood HD
-http://45.145.32.11:20008/hollywood_hd/video.m3u8
-#EXTINF:-1 group-title="Кино",Hollywood
-http://45.145.32.11:20013/hollywood/video.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 East
+http://persik.by/stream/6696/480248/10237.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Action East
+http://persik.by/stream/6696/480248/10238.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
+http://31.134.132.245:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://94.230.240.12:8080/kinotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия HD
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс HD
@@ -51,14 +41,14 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://94.154.83.88:10000/kinosvidanie
 #EXTINF:-1 group-title="Кино",Киносемья HD
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киносерия HD
+http://31.134.132.245:8080/kinoseriya_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит HD
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино
-https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Индийское кино
-http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://185.74.7.220:8080/kinopokaz/mpegts
 #EXTINF:-1 group-title="Кино",Cinema
@@ -73,10 +63,10 @@ https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
 http://212.79.122.24:7009/sony_turbo
 #EXTINF:-1 group-title="Кино",Sony Sci-Fi
 http://212.79.122.24:7173/sony_sci-Fi
+#EXTINF:-1 group-title="Кино",Paramount Channel HD
+http://31.134.132.242:8080/paramount_channel_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Paramount Comedy
 http://edge04.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Шокирующее HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=shok
 #EXTINF:-1 group-title="Кино",Еврокино
@@ -110,31 +100,31 @@ http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
 http://51.68.141.106:8081/tv/rus-bestceller/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Русский Детектив
 http://51.195.44.53:8081/tv/rus-detektiv/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Дом кино
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
-#EXTINF:-1 group-title="Кино",Дом кино премиум 
-http://cdn.nexttvnet.ru/hlsl/10/Dom_Kino_Premium_HD/Dom_Kino_Premium_HD_3/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4179.png" group-title="Кино",НТВ сериал
-http://45.145.32.11:20016/ntv_serial/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1753.png" group-title="Кино",НТВ право
-http://45.145.32.11:20016/ntv_pravo/video.m3u8
 #EXTINF:-1 group-title="Кино",НТВ Хит
 http://91.192.168.251:8401
 #EXTINF:-1 group-title="Кино",Иллюзион+
 http://195.49.206.244:90/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://195.49.206.244:90/NST/index.m3u8
-#EXTINF:-1 group-title="Кино",Trash HD
-http://cdn.nexttvnet.ru/hlsl/1/TrashHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино",Родное кино
 http://185.74.7.220:8080/rodnoekino/mpegts
-#EXTINF:-1 group-title="Кино",СТС Love
-http://cdn.nexttvnet.ru/hlsl/10/STS_Love/STS_Love_3/index.m3u8
 
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://st5.allplay.uz/iptv/67/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explorer
+http://st5.allplay.uz/iptv/36/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://st5.allplay.uz/iptv/18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature CEE
+http://persik.by/stream/6696/480248/10279.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explorer
+http://persik.by/stream/6696/480248/10280.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Channel HD
+http://persik.by/stream/6696/480248/880.m3u8
+#EXTINF:-1 group-title="Познавательные",Outdoor channel
+http://persik.by/stream/6696/480248/10246.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet HD
-https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery
 http://147.135.210.90:8081/tv/Discovery/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Science
@@ -159,10 +149,6 @@ http://91.192.168.242:9091
 #EXTINF:-1 group-title="Познавательные",Univer TV
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://a775797910-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/playlist.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные",Охота и Рыбалка
-https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Клуб Путешествий
-https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
@@ -170,8 +156,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Познавательные",Nano TV
 http://94.230.240.12:8080/nanotv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Авто Плюс
-https://s4.idata.uz/avtoplyus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровье
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Bricks TV
@@ -198,6 +182,12 @@ http://195.49.206.244:90/Drive/index.m3u8
 http://94.230.240.12:8080/drive/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Усадьба
 http://195.49.206.244:90/Usadba/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Охота и Рыбалка
+http://st5.allplay.uz/iptv/17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
+http://st5.allplay.uz/iptv/46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://persik.by/stream/6696/480248/10287.m3u8
 #EXTINF:-1 group-title="Познавательные",Загородная жизнь
 http://195.49.206.244:90/zagorodnaya_zhizn/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Зоопарк
@@ -342,8 +332,6 @@ http://94.230.240.12:8080/multimania/tracks-v1a1/index.m3u8
 http://94.230.240.12:8080/nickelodeon/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские",TiJi
 http://94.230.240.12:8080/tiji/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Детские",О! 
-http://89.106.234.3:80/o_34_35.m3u8
 
 #EXTINF:-1 group-title="Спорт",Eurosport 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
@@ -354,10 +342,10 @@ http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://185.71.64.167:80/307215676115/307215676115/81570
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://persik.by/stream/6696/480248/604.m3u8
 #EXTINF:-1 group-title="Спорт",КХЛ HD
-http://89.106.234.3:80/khl_hd_34_35.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ HD
-https://46-21-250-207.livesports24.online/khlhdru.m3u8
+http://persik.by/stream/6696/480248/10242.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport HD
 http://iptv.prosto.tv:7000/ch108/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport
@@ -374,7 +362,9 @@ https://95-213-224-175.livesports24.online/migra.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
 https://46-21-250-207.livesports24.online/matchboetsru.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 1
-https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+https://46-21-250-207.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 2
+https://46-21-250-207.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 2
 http://51.68.140.190:8081/tv/match-fut-2/chunks.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 3
@@ -383,8 +373,6 @@ http://51.68.140.190:8081/tv/match-fut-3/chunks.m3u8
 https://46-21-250-207.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 2 HD
 https://46-21-250-207.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол 3 HD
-https://46-21-250-207.livesports24.online/football3ua.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол
 http://195.49.206.244:90/Futbol/index.m3u8
 #EXTINF:-1 group-title="Спорт",Qazsport
@@ -411,6 +399,26 @@ http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 http://cdn.tvmatic.net/facebook.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 1
+http://212.200.127.243:80/ArenaSport1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 1 HD
+http://91.212.150.248:80/ArenaSport1/index.m3u8?utcstart=944923262064&version=2
+#EXTINF:-1 group-title="Спорт",Arena Sport 2
+http://212.200.127.243:80/ArenaSport2/index.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 2 HD
+http://91.212.150.248:80/ArenaSport2/index.m3u8?utcstart=944923262064&version=2
+#EXTINF:-1 group-title="Спорт",Arena Sport 3
+http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 3 HD
+http://91.212.150.248:80/ArenaSport3/index.m3u8?utcstart=944923262064&version=2
+#EXTINF:-1 group-title="Спорт",Arena Sport 4
+http://212.200.127.243:80/ArenaSport4/index.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 4 HD
+http://91.212.150.248:80/ArenaSport4/index.m3u8?utcstart=944923262064&version=2
+#EXTINF:-1 group-title="Спорт",Arena Sport 5
+http://212.200.127.243:80/ArenaSport5/index.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 5 HD
+http://91.212.150.248:80/ArenaSport5/index.m3u8?utcstart=944923262064&version=2
 
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -476,6 +484,20 @@ https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
 https://stirr.ott-channels.stingray.com/djazz/master.m3u8
 #EXTINF:-1 group-title="Музыка",Mezzo
 http://109.200.130.124:7000/play/a00r
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://persik.by/stream/6696/480248/682.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Россия
+http://persik.by/stream/6696/480248/10226.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Rocks
+http://persik.by/stream/6696/480248/10227.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Live HD
+http://persik.by/stream/6696/480248/10289.m3u8
+#EXTINF:-1 group-title="Музыка",ЖАРА
+http://persik.by/stream/6696/480248/384.m3u8
+#EXTINF:-1 group-title="Музыка",VH1 Classic Europe
+http://persik.by/stream/6696/480248/10481.m3u8
+#EXTINF:-1 group-title="Музыка",VH1 Europe
+http://persik.by/stream/6696/480248/10482.m3u8
 
 #EXTINF:-1 group-title="Взрослые",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
@@ -487,6 +509,12 @@ http://194.190.78.91:8080/shelk/index.m3u8
 http://109.200.130.124:15500/playboytv
 #EXTINF:-1 group-title="Взрослые",French Lover
 http://78.30.254.135/2050/index.m3u8?
+#EXTINF:-1 group-title="Взрослые",Candy HD
+http://185.52.77.67:8080/Candy/index.m3u8?token=944923262064
+#EXTINF:-1 group-title="Взрослые",Шалун HD
+http://31.134.132.245:8080/shalun_hd/mpegts
+#EXTINF:-1 group-title="Взрослые",Русская ночь
+http://93.189.224.117:9030/russkayanoch?wowzasessionid=944923262064&time=1463063123262
 
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
 http://live.gtrk.tv/hls/b24-hls.m3u8
@@ -1219,8 +1247,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8?version=2
 
+#EXTINF:-1 group-title="Беларусь",Беларусь 1 HD
+http://persik.by/stream/6696/480248/10405.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2 HD
+http://persik.by/stream/6696/480248/10406.m3u8
 #EXTINF:-1 group-title="Беларусь",Беларусь 2 HD
 http://86.57.174.73:14000/bel2
+#EXTINF:-1 group-title="Беларусь",Беларусь 3 HD
+http://persik.by/stream/6696/480248/10407.m3u8
 #EXTINF:-1 group-title="Беларусь",ОНТ HD Беларусь
 http://86.57.174.73:14002/ont
 #EXTINF:-1 group-title="Беларусь",Витебск ТВ
@@ -1272,37 +1306,6 @@ https://sc.id-tv.kz/HalykArna.m3u8
 https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 group-title="Казахстан",Dombyra TV
 https://sc.id-tv.kz/Dombyra_38_39.m3u8
-
-#EXTINF:-1 group-title="Литва",LNK
-http://45.145.32.15:20004/lnk/video.m3u8
-#EXTINF:-1 group-title="Литва",TV3
-http://45.145.32.15:20004/tv3/video.m3u8
-#EXTINF:-1 group-title="Литва",LRT HD
-http://45.145.32.15:20005/lrt_televizija_hd/video.m3u8
-#EXTINF:-1 group-title="Литва",LRT Plius HD
-http://45.145.32.15:20005/lrt_plius_hd/video.m3u8
-#EXTINF:-1 group-title="Литва",TV1
-http://45.145.32.15:20004/tv1/video.m3u8
-#EXTINF:-1 group-title="Литва",TV8
-http://45.145.32.15:20004/tv8/video.m3u8
-#EXTINF:-1 group-title="Литва",TV6
-http://45.145.32.15:20004/tv6/video.m3u8
-#EXTINF:-1 group-title="Литва",BTV
-http://45.145.32.15:20004/btv/video.m3u8
-#EXTINF:-1 group-title="Литва",Lietuvos rytas TV
-http://45.145.32.15:20004/lietuvos_rytas/video.m3u8
-#EXTINF:-1 group-title="Литва",Info TV
-http://45.145.32.15:20004/info_tv/video.m3u8
-#EXTINF:-1 group-title="Литва",Delfi TV
-http://45.145.32.15:20004/delfi_tv/video.m3u8
-#EXTINF:-1 group-title="Литва",2TV
-http://45.145.32.15:20004/2tv/video.m3u8
-#EXTINF:-1 group-title="Литва",Current Time
-http://45.145.32.15:20004/current_time/video.m3u8
-#EXTINF:-1 group-title="Литва",LRT
-http://45.145.32.15:20005/lrt_televizija/video.m3u8
-#EXTINF:-1 group-title="Литва",LRT Plius
-http://45.145.32.15:20005/lrt_plius/video.m3u8
 
 #EXTINF:-1 group-title="Голландия",go tv
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
@@ -1466,8 +1469,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
 #EXTINF:-1 group-title="Спорт",TDN DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
-#EXTINF:-1 group-title="США",EUROCHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
 #EXTINF:-1 group-title="США",AZTECA CINEMA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:-1 group-title="США",AZTECA UNO
@@ -1563,8 +1564,6 @@ http://139.162.182.79/live/test/index.m3u8
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1 group-title="Турция",KRAL POP HD
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 group-title="Турция",POWER TV alt2
-https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Турция",POWERTÜRK TV alt2
 https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Турция",Number 1 Türk
@@ -1581,8 +1580,6 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:-1 group-title="Турция",LALEGÜL TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 group-title="Турция",Mesaj TV
-https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Турция",Çiftçi TV
 https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Турция",DMAX
@@ -1595,10 +1592,6 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
 #EXTINF:-1 group-title="Турция",Elit TV İsviçre
 http://source2.primetime.ch:2981/play/elittv/index.m3u8
-#EXTINF:-1 group-title="Турция",BLUTV Aksiyon
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:-1 group-title="Турция",BLUTV KOMEDI
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
 #EXTINF:-1 group-title="Турция",Güneş TV Kibris
 http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
 #EXTINF:-1 group-title="Турция",NHT TV
@@ -1621,10 +1614,6 @@ http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
 http://kuzeykibris.tv/m3u8/tv_sim.m3u8
 #EXTINF:-1 group-title="Турция",Ada TV
 http://kuzeykibris.tv/m3u8/tv_ada.m3u8
-#EXTINF:-1 group-title="Турция",AKSU TV
-https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Турция",ALANYA ATV
-https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="Турция",Alanya Posta TV
 http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
 #EXTINF:-1 group-title="Турция",Berat TV
@@ -1645,14 +1634,8 @@ http://stream2.taksimbilisim.com:1935/caytv/smil:caytv.smil/iptvdelisi.m3u8
 https://s01.vpis.io/denizhaber/denizhaber.m3u8
 #EXTINF:-1 group-title="Турция",Dersim 62 TV
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
-#EXTINF:-1 group-title="Турция",DIM TV Alanya
-https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Турция",Doğuş TV
 http://s01.vpis.io/dogustv/dogustv.m3u8
-#EXTINF:-1 group-title="Турция",DRT DENIZLI
-http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/iptvdelisi.m3u8
-#EXTINF:-1 group-title="Турция",Ege TV
-https://waw1.artiyerelmedya.net/egetv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Турция",ERT Şah TV Erzincan
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
 #EXTINF:-1 group-title="Турция",Finest TV
@@ -1677,8 +1660,6 @@ http://s01.vpis.io/kanal101/kanal101.m3u8
 https://5be5d840359c6.streamlock.net/kanalartvin/kanalartvin/chunklist.m3u8
 #EXTINF:-1 group-title="Турция",KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-#EXTINF:-1 group-title="Турция",KANAL FIRAT
-https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Турция",KANAL Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Турция",Kardelen TV
@@ -1723,10 +1704,6 @@ https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1 group-title="Турция",ÜÜ TV Üsküdar Üniversitesi TV
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/iptvdelisi.m3u8
-#EXTINF:-1 group-title="Турция",VIZYON 58 TV
-https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Турция",Yeşilyurt TV
-https://waw1.artiyerelmedya.net/yesilyurttv/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="Украина",Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
