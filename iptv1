@@ -149,6 +149,20 @@ http://195.154.242.229:3000/mytelegram/premiere_group_chat/64127
 #EXTINF:-1 group-title="Кино" tvg-logo="https://ic.wampi.ru/2021/04/14/2fad40dca38520c923f82c5801d4cff9.png" logo="https://runigma.com.ua/EPG/picons/USSR.png" channelId="-1" tvg-id="ussr-hd" shift="3",USSR
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/47342
 
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://94.236.201.67:80/ANIMAL_PLANET_SD/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://185.74.7.220:8080/animal/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel  HD
+http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://212.42.193.122:8888/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery science
+http://212.79.122.24:7403/Discovery_Science
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://31.134.132.243:8080/nat-geo-wild/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explore HD
+http://194.28.184.194:34040/udp/239.195.240.217:1234
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
 http://persik.by/stream/6696/480248/10280.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore CEE HD
@@ -157,6 +171,8 @@ http://195.189.105.158:9050/067/index.m3u8
 http://195.189.105.158:9050/068/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature CEE
 http://persik.by/stream/6696/480248/10279.m3u8
+#EXTINF:-1 group-title="Познавательные",History HD 
+http://87.247.41.228:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные",Техно 24
 http://185.74.7.220:8080/techno_24/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel Channel HD
@@ -216,6 +232,30 @@ http://94.19.83.135:81/udp/239.239.3.45:5239
 http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Перец International
 http://212.42.193.122:8888/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Оружие
+http://hlstv.kem.211.ru/239.211.211.120/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://212.76.29.27/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",ОНТ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Познавательные",Тайна
+http://37.17.14.149:8912/play/a00m
+#EXTINF:-1 group-title="Познавательные",Galaxy TV
+http://93.125.121.62:8080/Galaxy/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Живи!
+http://89.223.46.188:8080/jivi/index.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+http://hlstv.kem.211.ru/239.211.211.55/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://80.89.196.34:8085/travel/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Кто есть Кто
+http://89.223.46.188:8080/kto-est-kto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",365 Дней тв
+http://hlstv.kem.211.ru/239.211.211.138/stream.m3u8
+
+
 #EXTINF:-1 group-title="Россия",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
@@ -337,7 +377,8 @@ http://persik.by/stream/6696/480248/10497.m3u8
 http://persik.by/stream/6696/480248/10490.m3u8
 #EXTINF:-1 group-title="Детские",Рыба кит HD
 http://persik.by/stream/6696/480248/10519.m3u8
-
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://89.104.114.7:8080/sts_kids/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",Eurosport 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
@@ -437,6 +478,9 @@ http://212.200.127.243:80/ArenaSport5/index.m3u8
 http://91.212.150.248:80/ArenaSport5/index.m3u8?utcstart=944923262064&version=2
 #EXTINF:-1 group-title="Спорт",Eleven Sports 1
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:-1 group-title="Спорт",Sport 1+1 HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыка",RU TV HD
@@ -515,6 +559,11 @@ https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
 https://stirr.ott-channels.stingray.com/djazz/master.m3u8
 #EXTINF:-1 group-title="Музыка",SONGTV
 http://212.42.193.122:8888/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Mezzo Live HD
+http://80.94.225.126:8080/MezzoLiveHD/mono.m3u8?token=943199563450
+
 #EXTINF:-1 group-title="Взрослые",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые",Шелк HD
