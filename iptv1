@@ -1818,6 +1818,66 @@ http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
 #EXTINF:-1 group-title="Швеция",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 
+#EXTINF:0 group-title="Сербия",ATV
+http://94.250.61.10:8000/play/a07g
+#EXTINF:0 group-title="Сербия",Arena Sport 5
+http://94.250.61.10:8000/play/a06o
+#EXTINF:0 group-title="Сербия",BHT 1
+http://94.250.61.10:8000/play/a07k
+#EXTINF:0 group-title="Сербия",CineStar Comedy
+http://94.250.61.10:8000/play/a083
+#EXTINF:0 group-title="Сербия",CineStar TV Fantasy
+http://94.250.61.10:8000/play/a05a
+#EXTINF:0 group-title="Сербия",Cinemania HD
+http://94.250.61.10:8000/play/cinema
+#EXTINF:0 group-title="Сербия",Federalna TV
+http://94.250.61.10:8000/play/a07l
+#EXTINF:0 group-title="Сербия",Film Klub
+http://94.250.61.10:8000/play/a07c
+#EXTINF:0 group-title="Сербия",Lov i Ribolov
+http://94.250.61.10:8000/play/a07m
+#EXTINF:0 group-title="Сербия",Nat Geo Wild HD
+http://94.250.61.10:8000/play/a06x
+#EXTINF:0 group-title="Сербия",National Geographic
+http://94.250.61.10:8000/play/a06y
+#EXTINF:0 group-title="Сербия",Nova HR HD
+http://94.250.61.10:8000/play/novatv
+#EXTINF:0 group-title="Сербия",Prva Plus
+http://94.250.61.10:8000/play/a06q
+#EXTINF:0 group-title="Сербия",RTL HD.
+http://94.250.61.10:8000/play/rtl
+#EXTINF:0 group-title="Сербия",RTL2.
+http://94.250.61.10:8000/play/a05k
+#EXTINF:0 group-title="Сербия",RTRS
+http://94.250.61.10:8000/play/rtrs
+#EXTINF:0 group-title="Сербия",SK 1 HD
+http://94.250.61.10:8000/play/sk1
+#EXTINF:0 group-title="Сербия",Superstar TV
+http://94.250.61.10:8000/play/a06u
+#EXTINF:0 group-title="Сербия",TV B92 HD
+http://94.250.61.10:8000/play/b92
+#EXTINF:0 group-title="Сербия",TV1000
+http://94.250.61.10:8000/play/a06j
+#EXTINF:0 group-title="Сербия",Agro TV
+http://94.250.61.10:8000/play/a049
+#EXTINF:0 group-title="Сербия",Arena Sport 1
+http://94.250.61.10:8000/play/arenasr1
+#EXTINF:0 group-title="Сербия",Arena Sport 2
+http://94.250.61.10:8000/play/arenasr2
+#EXTINF:0 group-title="Сербия",Arena Sport 3
+http://94.250.61.10:8000/play/arenasr3
+#EXTINF:0 group-title="Сербия",Arena Sport 4
+http://94.250.61.10:8000/play/arenasr4
+#EXTINF:0 group-title="Сербия",CineStar TV
+http://94.250.61.10:8000/play/cinestartv
+#EXTINF:0 group-title="Сербия",CineStar TV Action
+http://94.250.61.10:8000/play/a048
+#EXTINF:0 group-title="Сербия",Discovery Serbia
+http://94.250.61.10:8000/play/discovery
+#EXTINF:0 group-title="Сербия",Eurosport 2 HD 
+http://94.250.61.10:8000/play/eurosport2
+#EXTINF:0 group-title="Сербия",PRVA HD
+http://94.250.61.10:8000/play/prvatv
 
 #EXTINF:-1 group-title="Польша",TVN Style HD
 http://195.3.153.66:4022/udp/239.239.17.7:1234?zi/
@@ -1909,7 +1969,6 @@ http://195.3.153.66:4022/udp/239.239.17.231:1234?zi/
 http://195.3.153.66:4022/udp/239.239.17.250:1234?zi/
 #EXTINF:-1 group-title="Польша",Gametoon HD
 http://195.3.153.66:4022/udp/239.239.17.253:1234?zi/
-
 
 #EXTINF:-1 group-title="Чехия",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
