@@ -29,8 +29,6 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 World Kino
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1065/index.m3u8
-#EXTINF:-1 group-title="Кино",VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1 group-title="Кино",VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1 group-title="Кино",VIP Comedy
@@ -47,6 +45,8 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://188.113.190.12/233/video.m3u8
 #EXTINF:-1 group-title="Кино",Дорама HD
 http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья HD
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас HD
@@ -123,8 +123,6 @@ http://185.97.150.19:8082/2401
 http://185.97.150.19:8082/891
 #EXTINF:-1 group-title="Кино",Страшное HD
 http://vdbrt.kazaktelekom.com/iptv/2XBPNFMZKED9RN/7247/index.m3u8
-#EXTINF:-1 group-title="Кино",AMC
-http://185.97.150.19:8082/132
 #EXTINF:-1 group-title="Кино",ATV Filmzone
 http://91.231.200.2:9500/play/ch_196/index.m3u8
 #EXTINF:-1 group-title="Кино",ATV Kinoman
@@ -194,7 +192,6 @@ http://persik.by/stream/3006/413021/11013.m3u8
 http://persik.by/stream/3006/413021/11060.m3u8
 #EXTINF:-1 group-title="Кино",VF БОЕВИК
 http://185.97.150.19:8082/161
-
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://185.97.150.19:8082/35
 #EXTINF:-1 group-title="Познавательные",Animal Planet HD
@@ -219,8 +216,6 @@ http://188.113.190.12/106/video.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",Love Nature 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
@@ -276,8 +271,6 @@ http://188.113.190.12/131/video.m3u8
 http://188.113.190.12/322/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто 24
 http://188.113.190.12/154/video.m3u8
-#EXTINF:-1 group-title="Познавательные",Драйв
-http://185.97.150.19:8082/195
 #EXTINF:-1 group-title="Познавательные",Оружие
 http://188.113.190.12/155/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Оружие
@@ -326,11 +319,6 @@ http://185.97.150.19:8082/757
 http://185.97.150.19:8082/272
 #EXTINF:-1 group-title="Познавательные",В мире животных
 http://185.97.150.19:8082/889
-
-
-#EXTINF:-1 group-title="Россия",Первый канал
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Мир 24 HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
@@ -347,6 +335,27 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="Россия",RTVi
 http://46.34.209.243:80/btv/SWM/RTVi/RTVi_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Россия",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 group-title="Россия",Дождь
+http://185.97.150.19:8082/78
+#EXTINF:-1 group-title="Россия",СТС HD
+http://185.97.150.19:8082/222
+#EXTINF:-1 group-title="Россия",Домашний HD
+http://185.97.150.19:8082/249
+#EXTINF:-1 group-title="Россия",Пятница HD
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:-1 group-title="Россия",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Суббота! HD
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Че
+http://185.97.150.19:8082/226
+#EXTINF:-1 group-title="Россия",РБК (ББК)
+http://37.17.12.124:8907/play/a00h
+#EXTINF:-1 group-title="Россия",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
@@ -386,6 +395,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/che.png",Че
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Новости",DW
+http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Вместе РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 group-title="Россия",Москва Доверие
@@ -435,8 +448,6 @@ http://188.113.190.12/41/video.m3u8
 http://188.113.190.12/102/video.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
 http://188.113.190.12/108/video.m3u8
-#EXTINF:-1 group-title="Мультфильмы",BTV Огги и тараканы
-http://ukraina.otttv.pw/iptv/ZXWFUS85YY8F4S/14069/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
@@ -444,6 +455,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 http://188.113.190.12/82/video.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://188.113.190.12/83/video.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
 https://95-213-224-185.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
@@ -480,8 +495,6 @@ http://188.113.190.12/326/video.m3u8
 http://188.113.190.12/80/video.m3u8
 #EXTINF:-1 group-title="Спорт",КХЛ HD
 http://188.113.190.12/116/video.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол 
-https://185-107-80-245.livesports24.online/footballrus.m3u8
 #EXTINF:-1 group-title="Спорт",Qazsport
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport
@@ -518,8 +531,6 @@ http://iptv.prosto.tv:7000/ch114/video.m3u8
 http://iptv.prosto.tv:7000/ch116/video.m3u8
 #EXTINF:-1 group-title="Спорт",MostVideo TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 group-title="Спорт",TVMatic
-http://cdn.tvmatic.net/facebook.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8
 #EXTINF:-1 group-title="Спорт",Sport TV 2 HD
@@ -530,12 +541,8 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sport TV 1 HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Спорт",Sport TV 2 HD
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Спорт",Sport TV 3 HD
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Спорт",Sport TV 4 HD
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Спорт",Sport TV 5 HD
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Спорт",NBA TV
@@ -652,7 +659,6 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Музыка",Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-
 #EXTINF:-1 group-title="Взрослые",Русская ночь HD
 http://188.113.190.12/318/video.m3u8
 #EXTINF:-1 group-title="Взрослые",Русская ночь
@@ -661,6 +667,8 @@ http://93.189.224.117:9030/russkayanoch
 http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
 #EXTINF:-1 group-title="Взрослые",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Взрослые",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
 http://live.gtrk.tv/hls/b24-hls.m3u8
 #EXTINF:-1 group-title="Региональные",Первый тульский
@@ -1408,10 +1416,6 @@ http://87.247.44.25:80/btv/SWM/KinoAlem/KinoAlem_576p_2000kbps.m3u8
 http://87.247.44.25:80/btv/SWM/KinoHit/KinoHit_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Казахстан",Semei
 http://stream.kaztrk.kz/regional/semeytv/index.m3u8
-#EXTINF:-1 group-title="Латвия",KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Латвия",Chau TV
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 group-title="Латвия",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Латвия",TVNET
@@ -1498,8 +1502,10 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Украина",Новий канал
 http://51.15.176.84/hls/novy-live/index.m3u8
-#EXTINF:-1 group-title="Украина",Україна
+#EXTINF:-1 group-title="Украина",Украина
 http://51.15.176.84/hls/ukraina-live/index.m3u8
+#EXTINF:-1 group-title="Украина",Украина
+http://185.97.150.19:8082/112
 #EXTINF:-1 group-title="Украина",М1
 http://live.m2.tv/hls2/stream.m3u8
 #EXTINF:-1 group-title="Украина",М2
@@ -1752,14 +1758,10 @@ http://109.122.68.51:4000/play/a04p
 http://109.122.68.51:4000/play/a04j
 #EXTINF:-1 group-title="Австрия",krone.tv
 http://109.122.68.51:4000/play/a04g
-#EXTINF:-1 group-title="Австрия",oe24.TV HD
-http://109.122.68.51:4000/play/a063
 #EXTINF:-1 group-title="Австрия",pearl.tv Shop
 http://109.122.68.51:4000/play/a05a
 #EXTINF:-1 group-title="Голландия",go tv
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
-#EXTINF:-1 group-title="Голландия",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
 #EXTINF:-1 group-title="Голландия",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 group-title="Норвегия",TV Haugaland
@@ -1772,34 +1774,8 @@ http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
 #EXTINF:-1 group-title="Швеция",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
-#EXTINF:0 group-title="Сербия",Arena Sport 5
-http://94.250.61.10:8000/play/a06o
-#EXTINF:0 group-title="Сербия",CineStar TV Fantasy
-http://94.250.61.10:8000/play/a05a
-#EXTINF:0 group-title="Сербия",Film Klub
-http://94.250.61.10:8000/play/a07c
-#EXTINF:0 group-title="Сербия",National Geographic
-http://94.250.61.10:8000/play/a06y
-#EXTINF:0 group-title="Сербия",Superstar TV
-http://94.250.61.10:8000/play/a06u
 #EXTINF:0 group-title="Сербия",TV B92 HD
 http://94.250.61.10:8000/play/b92
-#EXTINF:0 group-title="Сербия",Agro TV
-http://94.250.61.10:8000/play/a049
-#EXTINF:0 group-title="Сербия",Arena Sport 1
-http://94.250.61.10:8000/play/arenasr1
-#EXTINF:0 group-title="Сербия",Arena Sport 2
-http://94.250.61.10:8000/play/arenasr2
-#EXTINF:0 group-title="Сербия",Arena Sport 3
-http://94.250.61.10:8000/play/arenasr3
-#EXTINF:0 group-title="Сербия",Arena Sport 4
-http://94.250.61.10:8000/play/arenasr4
-#EXTINF:0 group-title="Сербия",CineStar TV
-http://94.250.61.10:8000/play/cinestartv
-#EXTINF:0 group-title="Сербия",CineStar TV Action
-http://94.250.61.10:8000/play/a048
-#EXTINF:0 group-title="Сербия",Discovery Serbia
-http://94.250.61.10:8000/play/discovery
 #EXTINF:0 group-title="Сербия",Eurosport 2 HD 
 http://94.250.61.10:8000/play/eurosport2
 #EXTINF:0 group-title="Сербия",PRVA HD
@@ -1824,96 +1800,328 @@ http://190.119.176.141:8000/play/a009
 http://190.119.176.141:8000/play/a005
 #EXTINF:0 group-title="Испания",WILLAX
 http://190.119.176.141:8000/play/a004
-#EXTINF:0 group-title="Австрия",1-2-3.tv
-http://109.122.68.51:4000/play/a06g
-#EXTINF:0 group-title="Австрия",ANIXE+
-http://109.122.68.51:4000/play/a06h
-#EXTINF:0 group-title="Австрия",AstroTV
-http://109.122.68.51:4000/play/a06u
-#EXTINF:0 group-title="Австрия",Baden TV
-http://109.122.68.51:4000/play/a06s
-#EXTINF:0 group-title="Австрия",Comedy Central
-http://109.122.68.51:4000/play/a068
-#EXTINF:0 group-title="Австрия",Comedy Central Austria
-http://109.122.68.51:4000/play/a05e
-#EXTINF:0 group-title="Австрия",DELUXE MUSIC
-http://109.122.68.51:4000/play/a05g
-#EXTINF:0 group-title="Австрия",DMAX Austria
-http://109.122.68.51:4000/play/a054
-#EXTINF:0 group-title="Австрия",DMAX Germany
-http://109.122.68.51:4000/play/a06r
-#EXTINF:0 group-title="Австрия",Disney Channel Germany
-http://109.122.68.51:4000/play/a06k
-#EXTINF:0 group-title="Австрия",EURONEWS GERMAN SD
-http://109.122.68.51:4000/play/a04t
-#EXTINF:0 group-title="Австрия",EWTN katholisches TV
-http://109.122.68.51:4000/play/a06d
-#EXTINF:0 group-title="Австрия",Eurosport 1 Deutschland
-http://109.122.68.51:4000/play/a04q
-#EXTINF:0 group-title="Австрия",FOLX MUSIC TELEVISION
-http://109.122.68.51:4000/play/a05p
-#EXTINF:0 group-title="Австрия",Genius exklusiv
-http://109.122.68.51:4000/play/a04z
-#EXTINF:0 group-title="Австрия",HSE24
-http://109.122.68.51:4000/play/a06n
-#EXTINF:0 group-title="Австрия",HSE24 EXTRA
-http://109.122.68.51:4000/play/a04r
-#EXTINF:0 group-title="Австрия",HSE24 TREND
-http://109.122.68.51:4000/play/a06t
-#EXTINF:0 group-title="Австрия",Handystar TV
-http://109.122.68.51:4000/play/a06f
-#EXTINF:0 group-title="Австрия",Handystar TV 2
-http://109.122.68.51:4000/play/a06o
-#EXTINF:0 group-title="Австрия",Immer etwas Neues TV
-http://109.122.68.51:4000/play/a05o
-#EXTINF:0 group-title="Австрия",MTV Germany
-http://109.122.68.51:4000/play/a06a
-#EXTINF:0 group-title="Австрия",MediaShop- Meine Einkaufswelt
-http://109.122.68.51:4000/play/a05b
-#EXTINF:0 group-title="Австрия",Melodie TV NEU
-http://109.122.68.51:4000/play/a04k
-#EXTINF:0 group-title="Австрия",N24 DOKU Austria
-http://109.122.68.51:4000/play/a04y
-#EXTINF:0 group-title="Австрия",N24 DOKU Germany
-http://109.122.68.51:4000/play/a06c
-#EXTINF:0 group-title="Австрия",NICKELEDON Germany
-http://109.122.68.51:4000/play/a06b
-#EXTINF:0 group-title="Австрия",NICKELODEON AT
-http://109.122.68.51:4000/play/a051
-#EXTINF:0 group-title="Австрия",QVC
-http://109.122.68.51:4000/play/a06l
-#EXTINF:0 group-title="Австрия",QVC STYLE
-http://109.122.68.51:4000/play/a06e
-#EXTINF:0 group-title="Австрия",REGIO TV
-http://109.122.68.51:4000/play/a06p
-#EXTINF:0 group-title="Австрия",RTL Austria
-http://109.122.68.51:4000/play/a04l
-#EXTINF:0 group-title="Австрия",RTL2 Austria
-http://109.122.68.51:4000/play/a04n
-#EXTINF:0 group-title="Австрия",SIXX
-http://109.122.68.51:4000/play/a06j
-#EXTINF:0 group-title="Австрия",SPORT1 Germany
-http://109.122.68.51:4000/play/a06v
-#EXTINF:0 group-title="Австрия",SUPER RTL A
-http://109.122.68.51:4000/play/a04o
-#EXTINF:0 group-title="Австрия",Sonnenklar TV
-http://109.122.68.51:4000/play/a06m
-#EXTINF:0 group-title="Австрия",Starparadies A
-http://109.122.68.51:4000/play/a04i
-#EXTINF:0 group-title="Австрия",TELE 5
-http://109.122.68.51:4000/play/a06q
-#EXTINF:0 group-title="Австрия",TLC Austria
-http://109.122.68.51:4000/play/a053
-#EXTINF:0 group-title="Австрия",TLC Germany
-http://109.122.68.51:4000/play/a06i
-#EXTINF:0 group-title="Австрия",VOX Austria
-http://109.122.68.51:4000/play/a04m
-#EXTINF:0 group-title="Австрия",VOXup
-http://109.122.68.51:4000/play/a04p
-#EXTINF:0 group-title="Австрия",gotv neu
-http://109.122.68.51:4000/play/a04j
-#EXTINF:0 group-title="Австрия",pearl.tv Shop
-http://109.122.68.51:4000/play/a05a
+#EXTINF:-1 group-title="Португалия",11
+http://94.155.204.102:4000/play/a0f4
+#EXTINF:-1 group-title="Португалия",24 Kitchen HD
+http://94.155.204.102:4000/play/a060
+#EXTINF:-1 group-title="Португалия",A Bola TV
+http://94.155.204.102:4000/play/a02f
+#EXTINF:-1 group-title="Португалия",AMC HD
+http://94.155.204.102:4000/play/a06k
+#EXTINF:-1 group-title="Португалия",ARTV
+http://94.155.204.102:4000/play/a082
+#EXTINF:-1 group-title="Португалия",AXN HD
+http://94.155.204.102:4000/play/a04j
+#EXTINF:-1 group-title="Португалия",AXN Movies HD
+http://94.155.204.102:4000/play/a05u
+#EXTINF:-1 group-title="Португалия",AXN White HD
+http://94.155.204.102:4000/play/a05w
+#EXTINF:-1 group-title="Португалия",Afro Music
+http://94.155.204.102:4000/play/a028
+#EXTINF:-1 group-title="Португалия",BBC Entertainment
+http://94.155.204.102:4000/play/a0fd
+#EXTINF:-1 group-title="Португалия",BBC World News
+http://94.155.204.102:4000/play/a0gk
+#EXTINF:-1 group-title="Португалия",BTV HD
+http://94.155.204.102:4000/play/a04e
+#EXTINF:-1 group-title="Португалия",Baby TV
+http://94.155.204.102:4000/play/a07k
+#EXTINF:-1 group-title="Португалия",Biggs
+http://94.155.204.102:4000/play/a07q
+#EXTINF:-1 group-title="Португалия",Blaze
+http://94.155.204.102:4000/play/a07l
+#EXTINF:-1 group-title="Португалия",Bloomberg
+http://94.155.204.102:4000/play/a03q
+#EXTINF:-1 group-title="Португалия",CBS Reality
+http://94.155.204.102:4000/play/a027
+#EXTINF:-1 group-title="Португалия",CMTV
+http://94.155.204.102:4000/play/a041
+#EXTINF:-1 group-title="Португалия",CNBC Europe
+http://94.155.204.102:4000/play/a0g3
+#EXTINF:-1 group-title="Португалия",CNN
+http://94.155.204.102:4000/play/a0gi
+#EXTINF:-1 group-title="Португалия",Canal Panda
+http://94.155.204.102:4000/play/a02o
+#EXTINF:-1 group-title="Португалия",Canal Q
+http://94.155.204.102:4000/play/a0bl
+#EXTINF:-1 group-title="Португалия",CanĿªo Nova
+http://94.155.204.102:4000/play/a040
+#EXTINF:-1 group-title="Португалия",Cartoon Network
+http://94.155.204.102:4000/play/a030
+#EXTINF:-1 group-title="Португалия",CaĿavision
+http://94.155.204.102:4000/play/a043
+#EXTINF:-1 group-title="Португалия",Channel 1 Russia
+http://94.155.204.102:4000/play/a0co
+#EXTINF:-1 group-title="Португалия",Cinemundo
+http://94.155.204.102:4000/play/a01b
+#EXTINF:-1 group-title="Португалия",Crime+Investigation
+http://94.155.204.102:4000/play/a01y
+#EXTINF:-1 group-title="Португалия",Deutsche Welle (A)
+http://94.155.204.102:4000/play/a0fh
+#EXTINF:-1 group-title="Португалия",Discovery Channel HD
+http://94.155.204.102:4000/play/a06g
+#EXTINF:-1 group-title="Португалия",Disney Channel
+http://94.155.204.102:4000/play/a06i
+#EXTINF:-1 group-title="Португалия",Disney Jœnior
+http://94.155.204.102:4000/play/a080
+#EXTINF:-1 group-title="Португалия",E! Entertainment
+http://94.155.204.102:4000/play/a03m
+#EXTINF:-1 group-title="Португалия",Eleven 1 HD
+http://94.155.204.102:4000/play/a061
+#EXTINF:-1 group-title="Португалия",Eleven 2 HD
+http://94.155.204.102:4000/play/a04d
+#EXTINF:-1 group-title="Португалия",Eleven 2 HD
+http://94.155.204.102:4000/play/a0cw
+#EXTINF:-1 group-title="Португалия",Eleven 3
+http://94.155.204.102:4000/play/a03n
+#EXTINF:-1 group-title="Португалия",Eleven 3
+http://94.155.204.102:4000/play/a0cz
+#EXTINF:-1 group-title="Португалия",Eleven 4
+http://94.155.204.102:4000/play/a062
+#EXTINF:-1 group-title="Португалия",Eleven 6
+http://94.155.204.102:4000/play/a03z
+#EXTINF:-1 group-title="Португалия",Euronews
+http://94.155.204.102:4000/play/a0gl
+#EXTINF:-1 group-title="Португалия",Eurosport 1 HD
+http://94.155.204.102:4000/play/a05x
+#EXTINF:-1 group-title="Португалия",Eurosport 2
+http://94.155.204.102:4000/play/a03x
+#EXTINF:-1 group-title="Португалия",FOX Crime HD
+http://94.155.204.102:4000/play/a05z
+#EXTINF:-1 group-title="Португалия",FOX HD
+http://94.155.204.102:4000/play/a04k
+#EXTINF:-1 group-title="Португалия",FOX Life HD
+http://94.155.204.102:4000/play/a05y
+#EXTINF:-1 group-title="Португалия",FOX Movies
+http://94.155.204.102:4000/play/a07j
+#EXTINF:-1 group-title="Португалия",FTV
+http://94.155.204.102:4000/play/a0fy
+#EXTINF:-1 group-title="Португалия",Fox Comedy
+http://94.155.204.102:4000/play/a032
+#EXTINF:-1 group-title="Португалия",France 24
+http://94.155.204.102:4000/play/a0gm
+#EXTINF:-1 group-title="Португалия",Fuel TV
+http://94.155.204.102:4000/play/a06c
+#EXTINF:-1 group-title="Португалия",Globo
+http://94.155.204.102:4000/play/a04r
+#EXTINF:-1 group-title="Португалия",Globo Now
+http://94.155.204.102:4000/play/a03v1
+#EXTINF:-1 group-title="Португалия",HOT
+http://94.155.204.102:4000/play/a07z
+#EXTINF:-1 group-title="Португалия",Histðria
+http://94.155.204.102:4000/play/a04y
+#EXTINF:-1 group-title="Португалия",Hollywood HD
+http://94.155.204.102:4000/play/a016
+#EXTINF:-1 group-title="Португалия",Jim Jam
+http://94.155.204.102:4000/play/a01o
+#EXTINF:-1 group-title="Португалия",Lolly Kids
+http://94.155.204.102:4000/play/a0cl
+#EXTINF:-1 group-title="Португалия",MCM POP
+http://94.155.204.102:4000/play/a03g
+#EXTINF:-1 group-title="Португалия",MEO
+http://94.155.204.102:4000/play/a0cp
+#EXTINF:-1 group-title="Португалия",MTV Portugal
+http://94.155.204.102:4000/play/a04x
+#EXTINF:-1 group-title="Португалия",Mezzo
+http://94.155.204.102:4000/play/a0ge
+#EXTINF:-1 group-title="Португалия",NBA TV HD
+http://94.155.204.102:4000/play/a08j
+#EXTINF:-1 group-title="Португалия",NHK World Japan
+http://94.155.204.102:4000/play/a02n
+#EXTINF:-1 group-title="Португалия",National Geographic HD
+http://94.155.204.102:4000/play/a04i
+#EXTINF:-1 group-title="Португалия",National Geographic Wild
+http://94.155.204.102:4000/play/a02p
+#EXTINF:-1 group-title="Португалия",Nickelodeon
+http://94.155.204.102:4000/play/a06b
+#EXTINF:-1 group-title="Португалия",Odisseia
+http://94.155.204.102:4000/play/a052
+#EXTINF:-1 group-title="Португалия",Porto Canal
+http://94.155.204.102:4000/play/a02z
+#EXTINF:-1 group-title="Португалия",RTP .frica
+http://94.155.204.102:4000/play/a037
+#EXTINF:-1 group-title="Португалия",RTP AĿores
+http://94.155.204.102:4000/play/a057
+#EXTINF:-1 group-title="Португалия",RTP Madeira
+http://94.155.204.102:4000/play/a058
+#EXTINF:-1 group-title="Португалия",RTP Memðria
+http://94.155.204.102:4000/play/a02t
+#EXTINF:-1 group-title="Португалия",RTP1
+http://94.155.204.102:4000/play/a013
+#EXTINF:-1 group-title="Португалия",RTP2
+http://94.155.204.102:4000/play/a014
+#EXTINF:-1 group-title="Португалия",RTP3
+http://94.155.204.102:4000/play/a056
+#EXTINF:-1 group-title="Португалия",SIC
+http://94.155.204.102:4000/play/a01u
+#EXTINF:-1 group-title="Португалия",SIC Caras
+http://94.155.204.102:4000/play/a033
+#EXTINF:-1 group-title="Португалия",SIC K
+http://94.155.204.102:4000/play/a05c
+#EXTINF:-1 group-title="Португалия",SIC Mulher
+http://94.155.204.102:4000/play/a07h
+#EXTINF:-1 group-title="Португалия",SIC NotŦcias
+http://94.155.204.102:4000/play/a01v
+#EXTINF:-1 group-title="Португалия",SIC Radical
+http://94.155.204.102:4000/play/a02y
+#EXTINF:-1 group-title="Португалия",SKY News
+http://94.155.204.102:4000/play/a0gj
+#EXTINF:-1 group-title="Португалия",SPORT TV +
+http://94.155.204.102:4000/play/a077
+#EXTINF:-1 group-title="Португалия",SPORT TV 1 HD
+http://94.155.204.102:4000/play/a05t
+#EXTINF:-1 group-title="Португалия",SPORT TV 1 HD
+http://94.155.204.102:4000/play/a047
+#EXTINF:-1 group-title="Португалия",SPORT TV 2 HD
+http://94.155.204.102:4000/play/a04g
+#EXTINF:-1 group-title="Португалия",SPORT TV 3 HD
+http://94.155.204.102:4000/play/a04h
+#EXTINF:-1 group-title="Португалия",SPORT TV 4
+http://94.155.204.102:4000/play/a04u
+#EXTINF:-1 group-title="Португалия",SPORT TV 5
+http://94.155.204.102:4000/play/a07x
+#EXTINF:-1 group-title="Португалия",Sporting TV
+http://94.155.204.102:4000/play/a081
+#EXTINF:-1 group-title="Португалия",SyFy
+http://94.155.204.102:4000/play/a02v
+#EXTINF:-1 group-title="Португалия",TLC
+http://94.155.204.102:4000/play/a07i
+#EXTINF:-1 group-title="Португалия",TV Cine Action HD
+http://94.155.204.102:4000/play/a0f7
+#EXTINF:-1 group-title="Португалия",TV Cine Edition HD
+http://94.155.204.102:4000/play/a0dw
+#EXTINF:-1 group-title="Португалия",TV Cine Emotion HD
+http://94.155.204.102:4000/play/a0dx
+#EXTINF:-1 group-title="Португалия",TV Cine Top HD
+http://94.155.204.102:4000/play/a0f6
+#EXTINF:-1 group-title="Португалия",TV Galicia
+http://94.155.204.102:4000/play/a09b
+#EXTINF:-1 group-title="Португалия",TV Record
+http://94.155.204.102:4000/play/a04q
+#EXTINF:-1 group-title="Португалия",TV5 Monde
+http://94.155.204.102:4000/play/a0gs
+#EXTINF:-1 group-title="Португалия",TVE 24H
+http://94.155.204.102:4000/play/a07r
+#EXTINF:-1 group-title="Португалия",TVEi
+http://94.155.204.102:4000/play/a07p
+#EXTINF:-1 group-title="Португалия",TVI
+http://94.155.204.102:4000/play/a068
+#EXTINF:-1 group-title="Португалия",TVI FicĿªo
+http://94.155.204.102:4000/play/a02e
+#EXTINF:-1 group-title="Португалия",TVI Reality - Big Brother
+http://94.155.204.102:4000/play/a07g
+#EXTINF:-1 group-title="Португалия",TVI24
+http://94.155.204.102:4000/play/a04s
+#EXTINF:-1 group-title="Португалия",Toros TV
+http://94.155.204.102:4000/play/a07y
+#EXTINF:-1 group-title="Португалия",Trace Toca
+http://94.155.204.102:4000/play/a06a
+#EXTINF:-1 group-title="Португалия",Trace Urban
+http://94.155.204.102:4000/play/a02d
+#EXTINF:-1 group-title="Португалия",VH1
+http://94.155.204.102:4000/play/a07n
+#EXTINF:-1 group-title="Португалия",NOS Studios HD
+http://94.155.204.102:4000/play/a06r
+#EXTINF:-1 group-title="Португалия",24 Kitchen HD
+http://94.155.204.102:4000/play/a0e3
+#EXTINF:-1 group-title="Португалия",AXN HD
+http://94.155.204.102:4000/play/a0d7
+#EXTINF:-1 group-title="Португалия",AXN Movies HD
+http://94.155.204.102:4000/play/a0e2
+#EXTINF:-1 group-title="Португалия",AXN White HD
+http://94.155.204.102:4000/play/a0e6
+#EXTINF:-1 group-title="Португалия",BTV 1
+http://94.155.204.102:4000/play/a0dc
+#EXTINF:-1 group-title="Португалия",BTV 1 HD
+http://94.155.204.102:4000/play/a0da
+#EXTINF:-1 group-title="Португалия",Baby TV
+http://94.155.204.102:4000/play/a0cb
+#EXTINF:-1 group-title="Португалия",CMTV
+http://94.155.204.102:4000/play/a0c7
+#EXTINF:-1 group-title="Португалия",Canal Histðria
+http://94.155.204.102:4000/play/a0cc
+#EXTINF:-1 group-title="Португалия",Casa e Cozinha HD
+http://94.155.204.102:4000/play/a0eh
+#EXTINF:-1 group-title="Португалия",Discovery Channel
+http://94.155.204.102:4000/play/a051
+#EXTINF:-1 group-title="Португалия",Eleven Sports 1
+http://94.155.204.102:4000/play/a0ed
+#EXTINF:-1 group-title="Португалия",Eleven Sports 2
+http://94.155.204.102:4000/play/a0d9
+#EXTINF:-1 group-title="Португалия",Eleven Sports 2
+http://94.155.204.102:4000/play/a0db
+#EXTINF:-1 group-title="Португалия",Eleven Sports 3
+http://94.155.204.102:4000/play/a0dd
+#EXTINF:-1 group-title="Португалия",Eleven Sports 3
+http://94.155.204.102:4000/play/a0dg
+#EXTINF:-1 group-title="Португалия",Eleven Sports 4
+http://94.155.204.102:4000/play/a0ee
+#EXTINF:-1 group-title="Португалия",Eurosport 1
+http://94.155.204.102:4000/play/a04v
+#EXTINF:-1 group-title="Португалия",Eurosport 1 HD
+http://94.155.204.102:4000/play/a0e7
+#EXTINF:-1 group-title="Португалия",FOX Comedy
+http://94.155.204.102:4000/play/a0de
+#EXTINF:-1 group-title="Португалия",FOX Crime HD
+http://94.155.204.102:4000/play/a0e4
+#EXTINF:-1 group-title="Португалия",FOX HD
+http://94.155.204.102:4000/play/a0d8
+#EXTINF:-1 group-title="Португалия",FOX Life HD
+http://94.155.204.102:4000/play/a0e8
+#EXTINF:-1 group-title="Португалия",Globo
+http://94.155.204.102:4000/play/a0c8
+#EXTINF:-1 group-title="Португалия",Hollywood
+http://94.155.204.102:4000/play/a04w
+#EXTINF:-1 group-title="Португалия",ID Investigation Discovery
+http://94.155.204.102:4000/play/a05l
+#EXTINF:-1 group-title="Португалия",MTV Portugal
+http://94.155.204.102:4000/play/a0ce
+#EXTINF:-1 group-title="Португалия",Motorvision
+http://94.155.204.102:4000/play/a06m
+#EXTINF:-1 group-title="Португалия",National Geographic HD
+http://94.155.204.102:4000/play/a0d6
+#EXTINF:-1 group-title="Португалия",National Geographic WILD
+http://94.155.204.102:4000/play/a0eb
+#EXTINF:-1 group-title="Португалия",Nick Jr.
+http://94.155.204.102:4000/play/a06f
+#EXTINF:-1 group-title="Португалия",Porto Canal
+http://94.155.204.102:4000/play/a0c9
+#EXTINF:-1 group-title="Португалия",RTP .frica
+http://94.155.204.102:4000/play/a0cg
+#EXTINF:-1 group-title="Португалия",RTP 1 HD
+http://94.155.204.102:4000/play/a054
+#EXTINF:-1 group-title="Португалия",RTP 2 HD
+http://94.155.204.102:4000/play/a055
+#EXTINF:-1 group-title="Португалия",RTP 3
+http://94.155.204.102:4000/play/a0c5
+#EXTINF:-1 group-title="Португалия",RTP AĿores
+http://94.155.204.102:4000/play/a0ch
+#EXTINF:-1 group-title="Португалия",RTP Madeira
+http://94.155.204.102:4000/play/a0ci
+#EXTINF:-1 group-title="Португалия",RTP Memðria
+http://94.155.204.102:4000/play/a0cd
+#EXTINF:-1 group-title="Португалия",SIC HD
+http://94.155.204.102:4000/play/a067
+#EXTINF:-1 group-title="Португалия",SIC K
+http://94.155.204.102:4000/play/a0ca
+#EXTINF:-1 group-title="Португалия",Sport TV 1 HD
+http://94.155.204.102:4000/play/a0d3
+#EXTINF:-1 group-title="Португалия",Sport TV 2 HD
+http://94.155.204.102:4000/play/a0d4
+#EXTINF:-1 group-title="Португалия",Sport TV 3 HD
+http://94.155.204.102:4000/play/a0d5
+#EXTINF:-1 group-title="Португалия",Sport TV NBA
+http://94.155.204.102:4000/play/a01x
+#EXTINF:-1 group-title="Португалия",TVCine EDITION HD
+http://94.155.204.102:4000/play/a0ei
+#EXTINF:-1 group-title="Португалия",TVCine EMOTION HD
+http://94.155.204.102:4000/play/a0eg
+#EXTINF:-1 group-title="Португалия",TVI 24
+http://94.155.204.102:4000/play/a0c6
+#EXTINF:-1 group-title="Португалия",TVI HD
+http://94.155.204.102:4000/play/a08g
+#EXTINF:-1 group-title="Португалия",Travel Channel HD
+http://94.155.204.102:4000/play/a05v
 #EXTINF:-1 group-title="Чехия",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="Чехия",Polar TV
@@ -1936,8 +2144,6 @@ http://87.126.155.253:4000/play/a013
 http://87.126.155.253:4000/play/a02d
 #EXTINF:-1 group-title="Европа",Boomerang
 http://87.126.155.253:4000/play/a015
-#EXTINF:-1 group-title="Европа",CAZ
-http://87.126.155.253:4000/play/a023
 #EXTINF:-1 group-title="Европа",Canvas HD
 http://87.126.155.253:4000/play/a02x
 #EXTINF:-1 group-title="Европа",Cartoon Network
@@ -1962,26 +2168,12 @@ http://87.126.155.253:4000/play/a040
 http://87.126.155.253:4000/play/a00t
 #EXTINF:-1 group-title="Европа",FOX Sports 4 HD
 http://87.126.155.253:4000/play/a019
-#EXTINF:-1 group-title="Европа",Film1 Action
-http://87.126.155.253:4000/play/a01o
-#EXTINF:-1 group-title="Европа",Film1 Drama
-http://87.126.155.253:4000/play/a01n
-#EXTINF:-1 group-title="Европа",Film1 Family
-http://87.126.155.253:4000/play/a01m
-#EXTINF:-1 group-title="Европа",Film1 Premiere HD
-http://87.126.155.253:4000/play/a01u
 #EXTINF:-1 group-title="Европа",HBO HD
 http://87.126.155.253:4000/play/a03j
 #EXTINF:-1 group-title="Европа",History HD BNL
 http://87.126.155.253:4000/play/a030
-#EXTINF:-1 group-title="Европа",KetOp12
-http://87.126.155.253:4000/play/a020
-#EXTINF:-1 group-title="Европа",MTV NL
-http://87.126.155.253:4000/play/a033
 #EXTINF:-1 group-title="Европа",NET5 HD
 http://87.126.155.253:4000/play/a029
-#EXTINF:-1 group-title="Европа",NGC HD
-http://87.126.155.253:4000/play/a01w
 #EXTINF:-1 group-title="Европа",NPO Politiek
 http://87.126.155.253:4000/play/a012
 #EXTINF:-1 group-title="Европа",NPO1 HD
@@ -1990,8 +2182,6 @@ http://87.126.155.253:4000/play/a02a
 http://87.126.155.253:4000/play/a01a
 #EXTINF:-1 group-title="Европа",NPO3 HD
 http://87.126.155.253:4000/play/a02c
-#EXTINF:-1 group-title="Европа",National Geographic Wild HD DUT
-http://87.126.155.253:4000/play/a03i
 #EXTINF:-1 group-title="Европа",Nickelodeon
 http://87.126.155.253:4000/play/a037
 #EXTINF:-1 group-title="Европа",ONS
@@ -2014,8 +2204,6 @@ http://87.126.155.253:4000/play/a00p
 http://87.126.155.253:4000/play/a00q
 #EXTINF:-1 group-title="Европа",SBS6 HD
 http://87.126.155.253:4000/play/a03z
-#EXTINF:-1 group-title="Европа",SBS9
-http://87.126.155.253:4000/play/a01r
 #EXTINF:-1 group-title="Европа",Spike 24
 http://87.126.155.253:4000/play/a036
 #EXTINF:-1 group-title="Европа",TV Gelderland
@@ -2024,28 +2212,16 @@ http://87.126.155.253:4000/play/a02f
 http://87.126.155.253:4000/play/a043
 #EXTINF:-1 group-title="Европа",VIER HD
 http://87.126.155.253:4000/play/a00w
-#EXTINF:-1 group-title="Европа",VIJF
-http://87.126.155.253:4000/play/a024
 #EXTINF:-1 group-title="Европа",VTM HD
 http://87.126.155.253:4000/play/a00u
 #EXTINF:-1 group-title="Европа",Veronica/DisneyXD HD
 http://87.126.155.253:4000/play/a02b
-#EXTINF:-1 group-title="Европа",Vitaya
-http://87.126.155.253:4000/play/a022
 #EXTINF:-1 group-title="Европа",ZES
 http://87.126.155.253:4000/play/a00x
-#EXTINF:-1 group-title="Европа",Ziggo Sport Golf
-http://87.126.155.253:4000/play/a01q
-#EXTINF:-1 group-title="Европа",Ziggo Sport Select HD
-http://87.126.155.253:4000/play/a01v
-#EXTINF:-1 group-title="Европа",Ziggo Sport Voetbal
-http://87.126.155.253:4000/play/a01p
 #EXTINF:-1 group-title="Европа",duck TV DUT
 http://87.126.155.253:4000/play/a032
 #EXTINF:-1 group-title="Европа",een HD
 http://87.126.155.253:4000/play/a02w
-#EXTINF:-1 group-title="Европа",vtm KIDS JR
-http://87.126.155.253:4000/play/a01z
 #EXTINF:-1 group-title="Турция",TV EM
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 group-title="Турция",ON4 TV
@@ -2084,8 +2260,6 @@ http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
 http://source2.primetime.ch:2981/play/elittv/index.m3u8
 #EXTINF:-1 group-title="Турция",Güneş TV Kibris
 http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
-#EXTINF:-1 group-title="Турция",NHT TV
-http://nhttv22.nhttv.com:29020/nhttv/nhttv/playlist.m3u8
 #EXTINF:-1 group-title="Турция",BRT 1 FHD
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:-1 group-title="Турция",Kanal T FHD
@@ -2110,8 +2284,6 @@ https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
 http://stream2.taksimbilisim.com:1935/caytv/smil:caytv.smil/iptvdelisi.m3u8
 #EXTINF:-1 group-title="Турция",Dersim 62 TV
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
-#EXTINF:-1 group-title="Турция",ERT Şah TV Erzincan
-http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
 #EXTINF:-1 group-title="Турция",Finest TV
 http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 group-title="Турция",FTV Türk
@@ -2173,36 +2345,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?v
 #EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-10)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="Архив",Сериал UHD (-2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Архив",Сериал UHD (-4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="Архив",Сериал UHD (-6)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="Архив",Сериал UHD (-8)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="Архив",Сериал UHD (-10)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="Архив",Кино UHD (-2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Архив",Кино UHD (-4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="Архив",Кино UHD (-6)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="Архив",Кино UHD (-8)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="Архив",Кино UHD (-10)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-36000
 #EXTINF:-1 group-title="Архив",Русский Экстрим UHD (-2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
