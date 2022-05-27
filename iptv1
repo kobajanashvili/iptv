@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://109.200.130.124:15500/A1
-#EXTINF:-1 group-title="Кино",Amedia 2
+#EXTINF:-1 group-title="Кино",Amedia 2 test
 http://109.200.130.124:15500/A2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Кино",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
